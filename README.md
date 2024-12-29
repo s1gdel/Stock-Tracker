@@ -26,3 +26,6 @@ TWILIO_SID: Your Twilio Account SID.
 TWILIO_AUTHTOKEN: Your Twilio Auth Token.
 FROM NUMBER: The phone number from which the SMS will be sent (this must be a Twilio number).
 TO NUMBER: The phone number to which the SMS will be sent.
+
+This script can be ran 24/7 at:
+https://www.pythonanywhere.com/
